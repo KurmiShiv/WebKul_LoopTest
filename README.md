@@ -1,6 +1,6 @@
 # WebKul_LoopTes
 <br>
-<h3>Contions </h3>
+<h3>Conditions </h3>
 <br>
 ![webkul loop test](https://github.com/KurmiShiv/WebKul_LoopTest/assets/113050680/f2300fb8-8cb6-4504-815f-039260620bdd)
 
